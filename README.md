@@ -1,6 +1,4 @@
-<!-- Banner -->
-<!-- 👉 Replace this with your own banner image uploaded to your repo -->
-<img src="./banner.png" height="300" width="300" />
+
 
 <!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://karan-jamadar-portfolio.vercel.app/)
